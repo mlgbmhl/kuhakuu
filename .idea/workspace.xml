@@ -10,6 +10,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -23,10 +31,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/WebCtrl" />
+    <property name="settings.editor.selected.configurable" value="duplicates.index" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\kuhakuu\src\WebCtrl" />
+      <recent name="C:\kuhakuu\src\AcstRot" />
       <recent name="C:\kuhakuu\src" />
     </key>
   </component>
@@ -38,7 +49,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1690353190858</updated>
-      <workItem from="1690353193815" duration="709000" />
+      <workItem from="1690353193815" duration="1140000" />
+      <workItem from="1690354549696" duration="7000" />
+      <workItem from="1690354714341" duration="99000" />
+      <workItem from="1690354861150" duration="2845000" />
+      <workItem from="1690418388264" duration="1669000" />
     </task>
     <servers />
   </component>
